@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "types-wasm-rust-plugin"
+name = "types-wasm-rust-plugin-test"
 version = "1.0.0"
