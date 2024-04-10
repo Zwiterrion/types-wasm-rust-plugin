@@ -1,0 +1,16 @@
+[package]
+name = "types-wasm-rust-plugin"
+version = "1.0.0"
+edition = "2021"
+authors = ["Zwiterrion <etienne.anne@icloud.com>"]
+license = "MIT OR Apache-2.0"
+description = "A CLI to create and build WASM binaries"
+readme = "README.md"
+homepage = "https://github.com/Zwiterrion/types-wasm-rust-plugin"
+repository = "https://github.com/Zwiterrion/types-wasm-rust-plugin"
+keywords = ["types"]
+categories = ["command-line-utilities"]
+
+[dependencies]
+
+[dev-dependencies]
